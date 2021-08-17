@@ -10,7 +10,7 @@ cap.set(4, frameheight)
 cap.set(10, 150)
 
 
-colors = [[0,117,124,179,255,255]]                        ##[hmin,smin,vmin,hmax,smax,vmax]   ##Flourescent Yellow and Blue
+colors = [[0,117,124,179,255,255]]                        ##[hmin,smin,vmin,hmax,smax,vmax]   ## Blue
 colorVAL = [[182,173,50]]                                 ##BGR
 mypoints = []                                             ##[x, y, colorid]
 
